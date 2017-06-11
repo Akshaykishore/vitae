@@ -2,7 +2,7 @@ highlighter: rouge
 markdown: kramdown
 rdiscount:
   extensions: [smart]
-permalink: /:title.html
+permalink: :title.html
 paginate: 5
 gems: [jekyll-paginate]
 port: 4000
@@ -19,8 +19,8 @@ name: Akshay
 email: akshayvicky96@gmail.com
 email_full: mailto:akshayvicky96@gmail.com
 website: github.io/Akshaykishore.github.io
-website_full: https://Akshaykishore.github.io/
-github: AkshayKishore
+website_full: https://Akshaykishore.github.io/Akshaykishore.github.io
+github: Akshaykishore
 # twitter: twitter
 #tel: +44 0000 000000
 tel_full: tel:+91 960721840
