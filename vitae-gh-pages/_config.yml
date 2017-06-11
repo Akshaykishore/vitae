@@ -7,7 +7,7 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://AkshayKishore.me/vitae
+url: http://Akshaykishore.github.io/vitae
 author: Me
 
 # edit this section with your information
@@ -18,8 +18,8 @@ title: Akshay's Resume
 name: Akshay
 email: akshayvicky96@gmail.com
 email_full: mailto:akshayvicky96@gmail.com
-website: github.io/AkshayKishore
-website_full: https://AkshayKishore.github.io/AkshayKishore
+website: github.io/Akshaykishore
+website_full: https://Akshaykishore.github.io/Akshaykishore.github.io
 github: AkshayKishore
 # twitter: twitter
 #tel: +44 0000 000000
